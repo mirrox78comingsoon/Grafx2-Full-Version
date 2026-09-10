@@ -232,3 +232,6 @@ This repository serves as the official landing page for GrafX2. The software is 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of GrafX2 today!**
+
+---
+**Last updated:** 2026-09-10 15:24:56 UTC
