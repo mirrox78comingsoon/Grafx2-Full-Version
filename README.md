@@ -234,4 +234,4 @@ This repository serves as the official landing page for GrafX2. The software is 
 **Get the most recent version of GrafX2 today!**
 
 ---
-**Last updated:** 2026-10-07 20:16:42 UTC
+**Last updated:** 2026-10-08 00:31:49 UTC
